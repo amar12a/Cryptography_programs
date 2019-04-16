@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555255501 source:f:\c++\mit2018\morse_code\main.cpp
+	<string>
+	<iostream>
+	<algorithm>
+	<windows.h>
+	<time.h>
+
